@@ -34,7 +34,6 @@ We engineer credibility.
 
 🏗 System Architecture
 
-<img width="1055" height="594" alt="Screenshot 2025-11-27 at 12 25 14 PM" src="https://github.com/user-attachments/assets/a7ed217b-24ff-4c1f-baa1-be083555adb9" />
 <img width="952" height="610" alt="Screenshot 2025-11-27 at 12 25 38 PM" src="https://github.com/user-attachments/assets/a146cafd-7bf8-4490-8e40-6730e5609e47" />
 
 AI HUMANIZER PRO uses an intelligent Dual-Engine Pipeline balancing privacy, cost, accuracy, and linguistic realism.
