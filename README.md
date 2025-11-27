@@ -1,4 +1,4 @@
-<img width="1052" height="387" alt="Screenshot 2025-11-27 at 12 23 58 PM" src="https://github.com/user-attachments/assets/250c85b4-0b25-4501-bb6c-74a2475b5ee3" />🌐 AI HUMANIZER PRO
+🌐 AI HUMANIZER PRO
 Bridging the Gap Between Artificial Intelligence and Human Resonance
 <p align="center"> <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" /> <img src="https://img.shields.io/badge/Platform-IBM%20Challenge-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/License-MIT-black?style=for-the-badge" /> <img src="https://img.shields.io/badge/TechStack-Python%20%7C%20Flask%20%7C%20Ollama%20%7C%20Gemini%202.0%20%7C%20Sapling.ai-orange?style=for-the-badge" /> </p>
 
