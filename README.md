@@ -37,7 +37,6 @@ We engineer credibility.
 <img width="952" height="610" alt="Screenshot 2025-11-27 at 12 25 38 PM" src="https://github.com/user-attachments/assets/a146cafd-7bf8-4490-8e40-6730e5609e47" />
 
 AI HUMANIZER PRO uses an intelligent Dual-Engine Pipeline balancing privacy, cost, accuracy, and linguistic realism.
-<img width="1049" height="388" alt="Screenshot 2025-11-27 at 12 24 52 PM" src="https://github.com/user-attachments/assets/6e708f2b-3135-4213-9032-82e0f3117d94" />
 
 4
 Architecture Flow (Mermaid Diagram)
